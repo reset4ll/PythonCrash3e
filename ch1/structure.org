@@ -1,0 +1,29 @@
+#+title: Chapter 01 - Code
+#+author: reset4ll
+
+* Source code files:
+
+** _/*helloworld.py*/_
+
+#+begin_src python
+"""hello_world.py."""
+print("Hello Python world!")
+#+end_src
+
+** _/*helloworld2.py*/_
+
+#+begin_src python
+"""hello_world2.py."""
+message = "Hello Python world!"   # assign string to var
+print(message)
+#+end_src
+
+** _/*helloworld3.py*/_
+
+#+begin_src python
+"""hello_world3.py"""
+message = "Hello Python world!"
+print(message)
+message = "Hello Python Crash Course world!"
+print(message)
+#+end_src
