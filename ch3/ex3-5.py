@@ -1,7 +1,5 @@
 """ex3-5.py."""
 
-"""ex3-4.py."""
-
 person = ['socrates', 'platon', 'aristoteles']
 
 print(f"\nHello {person[0].title()}, would you like come to dinner tonight?.")
